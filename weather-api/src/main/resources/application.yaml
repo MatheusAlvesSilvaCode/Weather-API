@@ -1,4 +1,8 @@
 spring:
+  data:
+    redis:
+      host: localhost
+      port: 6379
   weather:
     api:
       key: ${WEATHER_API_KEY}
