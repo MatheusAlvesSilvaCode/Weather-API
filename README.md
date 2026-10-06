@@ -1,5 +1,7 @@
 # 🌤 Weather API (Spring Boot & Redis)
 
+URL project: https://roadmap.sh/projects/weather-api-wrapper-service
+
 > A project developed for [roadmap.sh](https://roadmap.sh/) with the goal of building a REST API in Java (Spring Boot) that consumes data from a third-party weather service (Visual Crossing), implements caching with **Redis** for performance optimization, and uses environment variables for security.
 
 ---
